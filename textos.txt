@@ -1,0 +1,160 @@
+#0-13
+BEM-VINDO AO JOGO "MISSAO CAMPO DA LUCIANA", #JOGADOR!!!!
+
+Narrador: O Ten Organi acabou de chamar voce ao Corpo de Alunos.
+#JOGADOR: Nossa!! Sequer fiz a barba hoje, espero que a mascara me ajude a safar essa punicao, nao quero mais nada pra minha ficha...
+#JOGADOR se dirige ao CA e eh nomeado como novo Encarregado de Materiais, ou como os alunos chamam, GLORIOSO ENCMAT!
+
+Tenente: Parabens, aluno #JOGADOR! Primeiramente, achou que era safo? Torrado por barba mal feita! Agora, MISSAO CAMPO DA LUCIANA! A aluna Luciana esta retornando esses dias e precisa cautelar todo o material para o campo, faca uma lista dos materiais que precisarao ser cautelados ATE AMANHA... Quer saber como fazer isso? ENQUANTO O MUNDO GIRA, O ALUNO SE VIRA! 
+
+Narrador: Voce, ainda perdido, tenta decidir qual o primeiro lugar que vai...
+1 - Procurar a canga da Luciana.
+2 - Falar com o (coitado, nunca se livra do sanha) EncMat antigo.
+3 - Ir ao alojamento do mais lindo segmento feminino saber quais materiais ela ja cautelou.
+Opcao escolhida:
+#1-5
+Para onde voce quer ir?
+1- Salas do basico.
+2- Grifo.
+3- Sala de estudos.
+Opcao escolhida:
+#2-11
+Voce lembra que o EncMat, o qual cautelou o material do campo foi a aluna Mazziotti e decide mandar uma mensagem pra ela.
+***CENARIO DE ZAPZAP***
+#JOGADOR: Oi Mazzi, tudo bem? To precisando de uma ajuda sua, sanha de EncMat!! hihi
+Mazziotti: AI MEU DEUS, NAO  ME LEMBRA DISSO!!! 
+#JOGADOR: Eh que recebi uma missao complicada kkkkk
+Mazziotti: Tudo bem, eu sei como sao complicadas... O que voce esta precisando?
+#JOGADOR: Preciso saber quais materiais a Juliana ja cautelou para o campo.
+Mazziotti: Ah, isso eh tranquilo, ela ja cautelou tudo que precisava! 
+1- Fica aliviado e avisa o Ten. que terminou a missao. 
+2- Acha esquisito, pois nao lembra dela estar na hora que cautelaram o poncho. 
+Opcao escolhida:
+#3-5
+Narrador: Voce, preocupado em se livrar logo da missao, foi rapidamente em direcao ao alojamento do segmento feminino, pois la, com certeza, encontraria alguem para responder suas perguntas sobre a Al. Luciana. Chegando la, tentou chamar alguma aluna e bater na porta, mas ninguem respondeu. 
+O que fazer?
+1- Esperar alguem aparecer.
+2- Entrar no alojamento.
+Opcao escolhida:
+#4-7
+Narrador:Voce foi na sala 4010 e achou a Al. Camila, a qual, mesmo estudando Introducao a Computacao, logo o avistou...
+Camila: NOSSA, EU ESTAVA PENSANDO EM VOCE AGORA MESMO!! Pode me ajudar nessa questao?
+#JOGADOR pensa: Estou com tao pouco tempo pra fazer isso...
+O que faco agora?
+1 - Digo que estou com pressa e pergunto sobre a Al. Evelyn.
+2 - Ajudo a Al. Camila na questao.
+Opcao escolhida:
+#5-8
+Narrador: Chegando no GRIFO, voce encontrou a Al. Gabriella.
+#JOGADOR: Oi Gabriella, tudo bem? 
+Gabriella: Oi, tudo bem! Fiquei sabendo que eh novo EncMat, entao nem vou perguntar se esta bem, sua cara de sanha ja diz tudo hahahaha.
+Narrador: Voce pensa em ficar chateado com a piada, mas eh melhor rir do que chorar, porque nem para chorar tem tempo. Entao, voce pergunta sobre a Evelyn e ela diz:
+Gabriella: A ultima vez que a vi, estava na sala de estudos.
+Narrador: Voce decide se dirigir a sala de estudos, mas antes lembra de comprar um KITKAT, ja que o audaz Patrimonio do GRIFO abasteceu o mercadinho...
+#RANDOM
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#6-8
+Narrador: Voce avista Evelyn levantando da mesinha dela e grita:
+#JOGADOR: TE ENCONTREI
+Narrador: A sala inteira faz SHHHHHHHH.
+Voce ignora. Evelyn o questiona o motivo da surpresa. 
+#JOGADOR: Evelyn, preciso de uma lista UU de todos os materiais que Luciana nao cautelou.
+Evelyn ri e fala: Ok, anota ai, ela cautelou... nada, ela nao esta aqui desde a primeira semana verde. Boa sorte ai!
+Narrador: Voce fica aliviado por ter a missao pronta pra amanha, mas ja sofre antecipado por todo material a ser cautelado...
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#7-10
+Camila:Tudo bem...(com uma expressao triste,pois a materia eh quase um caso perdido para ela). Vou tentar resolver...
+#FACE
+Entao, acho que ela esta no GRIFO ou na sala de estudos.
+#JOGADOR: Muito obrigado, vou correndo!
+No caminho voce avista a Major Gabriela,
+#RANDOM
+Para onde voce vai agora?
+1 - GRIFO.
+2 - Sala de Estudos.
+Opcao escolhida:
+#8-5
+Voce senta ao lado dela para tentar fazer a questao, se passam 10 minutos, 20 minutos...
+#RANDOM
+Camila: Acho que na Sala de Estudos, muito obrigada pela ajuda!
+Narrador: Voce se dirige a sala de estudos e encontra o TC Luis, como voce esta com sorte, voce logo o avista, voce presta continencia, o cumprimenta e segue seu caminho.
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#9-3
+Narrador: Voce nao percebeu que tinha escrito o nome errado na mensagem e avisou ao Tenente.
+Tenente: Aluno, como ela cautelou tudo se nao estava aqui durante o periodo da cautela?! Voces pegaram o poncho semana passada. TORRADO, DUVIDAS?!
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#10-13
+***CENARIO DE ZAPZAP*** 
+#JOGADOR: Tem certeza? Porque a Luciana nao estava aqui semana passada. 
+Mazziotti: Ah! Voce tinha escrito Juliana.
+#JOGADOR: Caramba, eu quase varei com o tenente! Ia ser caixao e vela preta...
+Narrador: Os dois riem.
+Mazziotti: Seria mesmo, mas relaxa que daqui pra frente eh so pra tras hahaha.
+Eu nao lembro mais o que ela pegou, mas tem numa lista que esta no armario do EncMat, na Ala, o Romulo esta com a chave.
+#JOGADOR: Ah, obrigado! 
+Mazziotti: De nada!
+Narrador: Agora voce precisa encontrar o Al. Romulo para pedir a chave. Olha a hora e ja eh meio dia. Para onde quer ir? 
+1-Ala.
+2-Rancho.
+Opcao escolhida:
+#11-11
+A caminho da Ala voce avista o Cel. Vidal, 
+#RANDOM
+Narrador: Chegando na ala voce encontra o Al Romulo.
+#JOGADOR: Rominho, preciso de voce, cara!
+Romulo: Pode contar comigo.
+#JOGADOR: A Mazziotti me disse que voce tem a chave do armario do EncMat, pode me emprestar?
+Romulo: Claro! Aproveita e ja fica com ela, ja que eh o novo agraciado.
+Narrador: Os dois riem. Voce agradece, porem....
+#BATLE
+Depois desse pequeno estresse, pega a chave e encontra a relacao com as informacoes sobre os materiais da Luciana. MISSAO CUMPRIDA! Agora pode aproveitar sua felpa da tarde (ou estudar para as VFs que ja estao chegando, afinal sempre existe um sanha pra ser resolvido!).
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#12-5
+Narrador: Voce chega no Rancho e ele esta lotado, como sempre. Logo fica muito feliz ao avistar sorvete de sobremesa e o Al Romulo. 
+Voce decide:
+1- Correr ate ele. 
+2- Esperar para falar com ele na Ala, apos o se deliciar com o sorvete.
+Opcao escolhida:
+#13-3
+Narrador: Ao correr, nao percebe que, neste momento, o General estava entrando no Rancho e #JOGADOR deve parar para prestar continencia. O oficial de dia percebe a cena e te chama.
+Oficial de Dia: ALUNO, volta aqui! Voce passou pelo General correndo! Ja fala seu nome e numero. VOCE FOI PLOTADO! 
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#14-9
+Narrador: Enquanto espera pela chegada de alguem, aparece a Al Htinha do terceiro ano. 
+Htinha: Fala ai bb, ta procurando por quem aqui?
+#JOGADOR: Queria falar com alguma aluna do primeiro ano para saber a situacao dos materiais da Al Luciana.
+Htinha: Coe, esquece, ta me sugando gatinho. O alojamento das alunas do primeiro ano nao eh nesse piso, e geralmente elas nao ficam por la. Te aconselho a procurar em outro local. Talvez aqui do lado no laboratorio, vi que o primeiro ano esta em aula.
+#JOGADOR: Muito sanha, varei total. Valeu!
+Para onde voce vai?
+1- Alojamento feminino quarto piso. 
+2- Laboratorio de quimica. 
+Opcao escolhida:
+#15-3
+Narrador: Como aparentemente o alojamento estava vazio e voce queria ver se a Al. Luciana tinha os materiais, entrou. Mas, #JOGADOR nao contava que a Ten Taiana Maria estaria la.
+#RANDOM
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#16-12
+Narrador: A caminho do quarto piso #JOGADOR encontra o Major Girardi,
+#RANDOM
+Al Juliana Lima: E ai, qual eh o sanha de hoje?
+#JOGADOR: Nossa, voce nem acredita, fui parar no outro alojamento feminino de tao sugado que eu estou, nem penso mais.
+Al Juliana Lima: Po, mas ai tu viajou muito! - Os dois riem.
+#JOGADOR: Pois eh, entao, tem como voce ver se a Luciana recebeu todos os materiais pro campo?
+Al Juliana Lima: Claro, agora!
+Narrador: A Juliana entra no alojamento e vai no armario da Luciana e repara que ela nao pegou nada.
+Al Juliana Lima: Cara, teu sanha de hoje acabou!! Ela nao recebeu nada!
+#JOGADOR: Ufa!! Pelo menos o de hoje...O de amanha fica pra amanha, quero nem pensar. Valeu, ju!
+Al Juliana Lima: Valeu nada! To esperando o chocolate da permanencia de agradecimento!
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#17-5
+Narrador: Voce entra no laboratorio sem pedir permissao e o Major percebe.
+Major: Aluno, quem autorizou a sua entrada? Por acaso essa aula era para voce?
+#JOGADOR: Ninguem, senhor. Estou tentando resolver uma missao do CA.
+Major: Isso nao diz nada, aluno. Voce nao pode atrapalhar a aula dessa forma. Me diz seu nome e numero, voce sera torrado...
+APERTE 1 + "ENTER" PARA CONTINUAR.
+#18-2
+...E assim se conclui mais um dia nesse GLORIOSO INSTITUTO cheio de missoes nada gloriosas do Corpo de Alunos...
+*** FIM DE JOGO ***
+#19-2
+... Mais um fim de semana perdido por ser bisonho...
+***FIM DO JOGO,VOCE NAO CUMPRIU A MISSAO***
