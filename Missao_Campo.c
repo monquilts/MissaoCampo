@@ -1,6 +1,4 @@
 /*
-TRABALHO (VE 3)
-Grupo: Luciana, Gabriella, Camila e Evelyn Henriques
 Sistema operacional: Windows 10
 Programa em C que implementa um jogo de RPG
 */
